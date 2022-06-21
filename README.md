@@ -8,7 +8,7 @@
 >The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
 ## Usage
 > Navigation links that will lead you to the needed content in correlation and relativity.
-> ![Navigation links](assets/images/screenshot1.png)
-    ![Sections](assets/images/screenshot2.png)
+> ![Navigation links](assets/screenshot1.png)
+    ![Sections](assets/screenshot2.png)
 ## License
 >None
