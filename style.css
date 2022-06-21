@@ -20,6 +20,8 @@ body {
     font-size: 48px;
 }
 
+/* Navigation links x3 */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -45,6 +47,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Large picture to start the webpage */
 
 .hero {
     height: 800px;
@@ -74,6 +78,8 @@ p {
     background-position: center;
 }
 
+/* This is a multi-line section with 3 sections */
+
 section {
     width: 75%;
     display: inline-block;
@@ -94,6 +100,8 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* This is a right side column w/ 3 boxes */
 
 aside {
     margin-top: -640px;
@@ -119,6 +127,8 @@ aside {
     margin-bottom: 32px;
     max-width: 150px;
  }
+
+ /* Copywrite section */
 
 footer {
     padding: 30px;
